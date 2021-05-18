@@ -19,7 +19,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Augmented Reality Projects**
+- 🔭 I’m a Second Year Computer Scinece Undergraduate with Specialization in Data Analytics.
 
 - 🌱 I’m currently learning **Machine Learning** and  **Data Science** 
 
