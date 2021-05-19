@@ -25,8 +25,6 @@
 
 - 👯 I’m looking to collaborate on **developing a Deep Learning project** 
 
-- 💬 Ask me about anything **I'm happy to help🤝**
-
 - 📫 How to reach me **anushkaguptably@gmail.com**
 
 ------
