@@ -23,8 +23,6 @@
 
 - 🌱 I’m currently learning **Machine Learning** and  **Data Science** 
 
-- 👯 I’m looking to collaborate on **developing a Deep Learning project** 
-
 - 📫 How to reach me **anushkaguptably@gmail.com**
 
 ------
