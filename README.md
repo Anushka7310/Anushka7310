@@ -19,7 +19,7 @@
 
 <br/>
 
-- 🔭 I’m a Second Year Computer Scinece Undergraduate with Specialization in Data Analytics.
+- 🔭 I’m a Third Year Computer Scinece Undergraduate with Specialization in Data Analytics.
 
 - 🌱 I’m currently learning **Machine Learning** and  **Data Science** 
 
