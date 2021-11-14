@@ -14,7 +14,7 @@
   <img align="left" alt="Anushka's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
 
-<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="540" align='right'>
+<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="440" align='right'>
 
 
 <br/>
