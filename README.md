@@ -1,5 +1,5 @@
 
-
+<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 <h3 align="center">An  Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.
 
@@ -14,7 +14,7 @@
   <img align="left" alt="Anushka's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
 
-<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="430" align='right'>
+<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="540" align='right'>
 
 
 <br/>
@@ -42,6 +42,13 @@
 <code><img height="20" src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="20" src="https://www.r-project.org/logo/Rlogo.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
+  
+ <br/> 
+  
+<img align="left" src='https://github-readme-stats.vercel.app/api?username=Anushka7310&show_icons=true&theme=radical&count_private=true'/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka7310&count_private=true&theme=radical" alt="mostlypanda" />
+
+
   
   
   
