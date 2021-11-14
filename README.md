@@ -45,9 +45,7 @@
   
  <br/> 
   
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=Anushka7310&show_icons=true&theme=radical&count_private=true'/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka7310&count_private=true&theme=radical" alt="mostlypanda" />
-
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka7310&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
   
   
