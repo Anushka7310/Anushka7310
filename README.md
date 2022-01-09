@@ -19,6 +19,8 @@
 
 <br/>
 
+- 🌱 I’m a Full-Stack Web Developer and a Data Science Enthusiast.
+
 - 🔭 I’m a Third Year Computer Scinece Undergraduate with Specialization in Data Analytics.
 
 - 🌱 I’m currently learning **Machine Learning** and  **Data Science** 
