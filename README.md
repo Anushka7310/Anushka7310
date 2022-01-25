@@ -7,14 +7,21 @@
 </h3>
 
 <a href="https://www.linkedin.com/in/anushka-gupta-035794197/">
-  <img align="left" alt="Anushka's's LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+  <img align="center" alt="Anushka's's LinkedIn" width="52px" src="https://user-images.githubusercontent.com/61081130/150985095-1a498507-2f4f-49a2-bb08-7abb8bb65fef.png" />
 </a>
 
+
+
 <a href="https://twitter.com/Anushka50399661">
-  <img align="left" alt="Anushka's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  <img align="center" alt="Anushka's Twitter" width="52px" src="https://user-images.githubusercontent.com/61081130/150985479-8f7c6905-6d9a-40be-8d30-4b61bf00a5df.png" />
 </a> 
 
-<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="440" align='right'>
+<a href="anushkaguptably@gmail.com">
+  <img align="center" alt="Anushka's Mail" width="52px" src="https://user-images.githubusercontent.com/61081130/150986111-5f260f73-80b2-4118-9e7f-6dac3dd77c7d.png" />
+</a> 
+
+<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="440" align='right' >
 
 
 <br/>
