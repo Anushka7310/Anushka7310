@@ -1,7 +1,7 @@
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
-<h3 align="center">An  Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.
+<h3 align="center">An  Tech Enthusiast and an Explorer always inclined towards learning with a positive mindset.
 
 
 </h3>
@@ -26,12 +26,7 @@
 
 <br/>
 
-- 🌱 I’m a Full-Stack Web Developer and a Data Science Enthusiast.
-
-- 🔭 I’m a Third Year Computer Science Undergraduate with Specialization in Data Analytics.
-
-- 🌱 I’m currently learning **Machine Learning** and  **Data Science** 
-
+- 🌱 I’m a Full-Stack Web Developer located in India.
 - 📫 How to reach me **anushkaguptably@gmail.com**
 
 ------
