@@ -1,5 +1,5 @@
 
-<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
+<h2>About me </h2>
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 <h3 align="center">An  Tech Enthusiast and an Explorer always inclined towards learning with a positive mindset.
 
